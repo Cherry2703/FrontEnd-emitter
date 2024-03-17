@@ -1,0 +1,15 @@
+.leader-board-cont{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.table-container{
+    border: 1.5px solid grey;
+    padding: 25px;
+    margin-bottom: 10px;
+}
+.roww{
+    border: 1.2px solid #000;
+}
+

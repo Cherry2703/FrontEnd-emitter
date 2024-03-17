@@ -1,0 +1,49 @@
+.main-cont{
+  background-image: linear-gradient(to right,#d94b2b,#e8872c,#e88120,#e87509,#ba3618);
+  min-height: 100vh;
+  margin: 0;
+  width:100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-bottom: 35px;
+  max-height: 130vh;
+}
+.game-container{
+  width: 600px;
+  background: #fff;
+  text-align: center;
+  align-items: center;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card-btn{
+  color: red;
+  font-family: "Roboto";
+  padding: 8px;
+  border-radius:5px ;
+  font-weight: bold;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+.username-input{
+  padding: 8px;
+  border-top-left-radius:5px ;
+  border-bottom-left-radius: 5px;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.start-game-btn{
+  padding: 8px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+color: red;
+cursor: pointer;
+}
